@@ -1,7 +1,7 @@
 {
-  "version": "1.3.5",
-  "installer": "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.3.5/DaoDe_1.3.5_Setup.exe",
-  "portable": "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.3.5/DaoDe_1.3.5_Portable.zip",
-  "download": "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.3.5/DaoDe_1.3.5_Portable.zip",
+  "version": "1.3.6",
+  "installer": "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.3.6/DaoDe_1.3.6_Setup.exe",
+  "portable": "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.3.6/DaoDe_1.3.6_Portable.zip",
+  "download": "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.3.6/DaoDe_1.3.6_Portable.zip",
   "notes": "Chuyển DaoDe sang bộ cài Windows, tạo shortcut Desktop và hỗ trợ cập nhật bằng bộ cài."
 }
