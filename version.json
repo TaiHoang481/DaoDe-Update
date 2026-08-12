@@ -1,7 +1,7 @@
 {
-    "version":  "1.4.6",
-    "download":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.6/DaoDe_1.4.6_Portable.zip",
-    "installer":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.6/DaoDe_1.4.6_Setup.exe",
-    "portable":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.6/DaoDe_1.4.6_Portable.zip",
-    "notes":  "Vã lỗi và cải thiện hiển thị đề gốc, dàn trang đề "
+    "version":  "1.4.7",
+    "download":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.7/DaoDe_1.4.7_Portable.zip",
+    "installer":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.7/DaoDe_1.4.7_Setup.exe",
+    "portable":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.7/DaoDe_1.4.7_Portable.zip",
+    "notes":  "Thay đổi cách trình bày hình vẽ và lựa chọn Font Size để tiết kiệm giấy"
 }
