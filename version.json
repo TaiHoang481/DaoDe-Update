@@ -1,7 +1,7 @@
 {
-    "version":  "1.4.4",
-    "download":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.4/DaoDe_1.4.4_Portable.zip",
-    "installer":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.4/DaoDe_1.4.4_Setup.exe",
-    "portable":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.4/DaoDe_1.4.4_Portable.zip",
-    "notes":  "Cải thiện hiệu suất"
+    "version":  "1.4.5",
+    "download":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.5/DaoDe_1.4.5_Portable.zip",
+    "installer":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.5/DaoDe_1.4.5_Setup.exe",
+    "portable":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.5/DaoDe_1.4.5_Portable.zip",
+    "notes":  "Vá lỗi, cải thiện hiển thị đề gốc!"
 }
