@@ -1,7 +1,9 @@
 {
-    "version":  "1.4.7",
-    "download":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.7/DaoDe_1.4.7_Portable.zip",
-    "installer":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.7/DaoDe_1.4.7_Setup.exe",
-    "portable":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.7/DaoDe_1.4.7_Portable.zip",
-    "notes":  "Thay đổi cách trình bày hình vẽ và lựa chọn Font Size để tiết kiệm giấy"
+    "version":  "1.4.8",
+    "download":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.8/DaoDe_1.4.8_Update.zip",
+    "update_package":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.8/DaoDe_1.4.8_Update.zip",
+    "update_sha256":  "a386bcbad267b6236c8c25c5419abe298f3c752ecf4a92bd54528298f5fa4ccd",
+    "setup":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.8/DaoDe_1.4.8_Setup.exe",
+    "portable":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.8/DaoDe_1.4.8_Portable.zip",
+    "notes":  "THAY ĐỔI CÁCH TẢI FILE CÀI. SAU KHI TẢI CHÚ Ý VÀO GIẢI NÉN DaoDe_1.4.8_Update VÀ CÀI ĐẶT"
 }
