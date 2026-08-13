@@ -1,9 +1,9 @@
 {
-    "version":  "1.4.9",
-    "download":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.9/DaoDe_1.4.9_Update.zip",
-    "update_package":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.9/DaoDe_1.4.9_Update.zip",
-    "update_sha256":  "342364ecb41a0f179da8889924deedab2b3d992df79a6677e32161ab2ef5e28f",
-    "setup":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.9/DaoDe_1.4.9_Setup.exe",
-    "portable":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.9/DaoDe_1.4.9_Portable.zip",
-    "notes":  "CẬP NHẬT TÍNH NĂNG TỰ GẮN THẺ THÔNG MINH"
+    "version":  "1.4.10",
+    "download":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.10/DaoDe_1.4.10_Update.zip",
+    "update_package":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.10/DaoDe_1.4.10_Update.zip",
+    "update_sha256":  "fac6d2c82404ba6c9c62aa4c769dd3a2029aa82572c8fb05b6046971233d5414",
+    "setup":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.10/DaoDe_1.4.10_Setup.exe",
+    "portable":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.10/DaoDe_1.4.10_Portable.zip",
+    "notes":  "THÊM TÍNH NĂNG TỰ ĐỘNG GÁN THẺ VÀO CÁC NHÓM"
 }
