@@ -1,9 +1,9 @@
 {
-    "version":  "1.4.14",
-    "download":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.14/DaoDe_1.4.14_Update.zip",
-    "update_package":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.14/DaoDe_1.4.14_Update.zip",
-    "update_sha256":  "5f106f9e6ce3b7f81e339b89bf99380a28c58efc9c88c61e813a0e9088e7f43e",
-    "setup":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.14/DaoDe_1.4.14_Setup.exe",
-    "portable":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.14/DaoDe_1.4.14_Portable.zip",
-    "notes":  "Cập nhật Mathtype"
+    "version":  "1.4.16",
+    "download":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.16/DaoDe_1.4.16_Update.zip",
+    "update_package":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.16/DaoDe_1.4.16_Update.zip",
+    "update_sha256":  "cfd4efa78e779badaf17f3d6d714f298cb5606688f79fcf0d765c2cee92def26",
+    "setup":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.16/DaoDe_1.4.16_Setup.exe",
+    "portable":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.16/DaoDe_1.4.16_Portable.zip",
+    "notes":  "CẢI THIỆN VÀ VÁ LỖI"
 }
