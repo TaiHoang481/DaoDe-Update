@@ -1,9 +1,9 @@
 {
-    "version":  "1.4.17",
-    "download":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.17/DaoDe_1.4.17_Update.zip",
-    "update_package":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.17/DaoDe_1.4.17_Update.zip",
-    "update_sha256":  "f0c76e12ea8b636b2449aa7b3e6ae3a1d6b36c81c5c3052b5e21b37368a26c23",
-    "setup":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.17/DaoDe_1.4.17_Setup.exe",
-    "portable":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.17/DaoDe_1.4.17_Portable.zip",
-    "notes":  "Cải thiện tốc độ"
+    "version":  "1.4.18",
+    "download":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.18/DaoDe_1.4.18_Update.zip",
+    "update_package":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.18/DaoDe_1.4.18_Update.zip",
+    "update_sha256":  "6e60c622de27c6f9ace56763e36fed5d0de5c428bd54ae0ad9e1b694177c4682",
+    "setup":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.18/DaoDe_1.4.18_Setup.exe",
+    "portable":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.18/DaoDe_1.4.18_Portable.zip",
+    "notes":  "Cải tiến tốc độ đảo đề"
 }
