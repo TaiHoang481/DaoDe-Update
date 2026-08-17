@@ -1,9 +1,9 @@
 {
-    "version":  "1.4.18",
-    "download":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.18/DaoDe_1.4.18_Update.zip",
-    "update_package":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.18/DaoDe_1.4.18_Update.zip",
-    "update_sha256":  "6e60c622de27c6f9ace56763e36fed5d0de5c428bd54ae0ad9e1b694177c4682",
-    "setup":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.18/DaoDe_1.4.18_Setup.exe",
-    "portable":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.18/DaoDe_1.4.18_Portable.zip",
-    "notes":  "Cải tiến tốc độ đảo đề"
+    "version":  "1.4.20",
+    "download":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.20/DaoDe_1.4.20_Update.zip",
+    "update_package":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.20/DaoDe_1.4.20_Update.zip",
+    "update_sha256":  "1123c48fdd536f72b842c72815157e772370b395b6a9a2dd18f78f4fe71677ab",
+    "setup":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.20/DaoDe_1.4.20_Setup.exe",
+    "portable":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.20/DaoDe_1.4.20_Portable.zip",
+    "notes":  "Test"
 }
