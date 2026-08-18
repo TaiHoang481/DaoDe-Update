@@ -1,9 +1,9 @@
 {
-    "version":  "0.0.0",
-    "download":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.20/DaoDe_1.4.20_Update.zip",
-    "update_package":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.20/DaoDe_1.4.20_Update.zip",
-    "update_sha256":  "1123c48fdd536f72b842c72815157e772370b395b6a9a2dd18f78f4fe71677ab",
-    "setup":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.20/DaoDe_1.4.20_Setup.exe",
-    "portable":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.20/DaoDe_1.4.20_Portable.zip",
-    "notes":  "Test"
+    "version":  "1.4.21",
+    "download":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.21/DaoDe_1.4.21_Update.zip",
+    "update_package":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.21/DaoDe_1.4.21_Update.zip",
+    "update_sha256":  "9a45646aeb27b7fdd7fc68bfeee999b4796cd6d82a2d8c56e5dd8a0523802109",
+    "setup":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.21/DaoDe_1.4.21_Setup.exe",
+    "portable":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.21/DaoDe_1.4.21_Portable.zip",
+    "notes":  "TEST"
 }
