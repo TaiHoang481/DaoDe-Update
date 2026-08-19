@@ -1,9 +1,9 @@
 {
-    "version":  "1.4.23",
-    "download":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.23/DaoDe_1.4.23_Update.zip",
-    "update_package":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.23/DaoDe_1.4.23_Update.zip",
-    "update_sha256":  "83a8e94782e0fb5b7513d4db09e2812292cf5d2f5dacde0ab481150c69134781",
-    "setup":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.23/DaoDe_1.4.23_Setup.exe",
-    "portable":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.23/DaoDe_1.4.23_Portable.zip",
-    "notes":  "Cập nhật từ tìm đáp án trong đè gốc"
+    "version":  "1.4.24",
+    "download":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.24/DaoDe_1.4.24_Update.zip",
+    "update_package":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.24/DaoDe_1.4.24_Update.zip",
+    "update_sha256":  "13acfd2ec1ec4738f6a38742acb9085a75e9f1c935666bb111f5e39f746c3988",
+    "setup":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.24/DaoDe_1.4.24_Setup.exe",
+    "portable":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.24/DaoDe_1.4.24_Portable.zip",
+    "notes":  "Nâng cấp hiển thị và chỉnh sửa Mathtype"
 }
