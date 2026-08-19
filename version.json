@@ -1,9 +1,9 @@
 {
-    "version":  "1.4.24",
-    "download":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.24/DaoDe_1.4.24_Update.zip",
-    "update_package":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.24/DaoDe_1.4.24_Update.zip",
-    "update_sha256":  "13acfd2ec1ec4738f6a38742acb9085a75e9f1c935666bb111f5e39f746c3988",
-    "setup":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.24/DaoDe_1.4.24_Setup.exe",
-    "portable":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.24/DaoDe_1.4.24_Portable.zip",
-    "notes":  "Nâng cấp hiển thị và chỉnh sửa Mathtype"
+    "version":  "1.4.25",
+    "download":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.25/DaoDe_1.4.25_Update.zip",
+    "update_package":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.25/DaoDe_1.4.25_Update.zip",
+    "update_sha256":  "879e77635e7f505ddad0e24fcd5aa2b9230a7d2d52b4a6ebc65643880c3984a4",
+    "setup":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.25/DaoDe_1.4.25_Setup.exe",
+    "portable":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.25/DaoDe_1.4.25_Portable.zip",
+    "notes":  "Thêm tính năng xuất pdf"
 }
