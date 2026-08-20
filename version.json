@@ -1,9 +1,9 @@
 {
-    "version":  "1.4.28",
-    "download":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.28/DaoDe_1.4.28_Update.zip",
-    "update_package":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.28/DaoDe_1.4.28_Update.zip",
-    "update_sha256":  "1660cb38f06dd98e4b6ac516e5b104d2788783ec2e6a4a528a2388bc66c76c95",
-    "setup":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.28/DaoDe_1.4.28_Setup.exe",
-    "portable":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.28/DaoDe_1.4.28_Portable.zip",
-    "notes":  "Vá lỗi "
+    "version":  "1.4.29",
+    "download":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.29/DaoDe_1.4.29_Update.zip",
+    "update_package":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.29/DaoDe_1.4.29_Update.zip",
+    "update_sha256":  "97e2873d918c78f0adb7d121315c40b3aba4d6b93629b8674a66543353b6364f",
+    "setup":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.29/DaoDe_1.4.29_Setup.exe",
+    "portable":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.29/DaoDe_1.4.29_Portable.zip",
+    "notes":  "Vá lỗi và cải thiện tính năng"
 }
