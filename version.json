@@ -1,9 +1,9 @@
 {
-    "version":  "1.4.29",
-    "download":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.29/DaoDe_1.4.29_Update.zip",
-    "update_package":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.29/DaoDe_1.4.29_Update.zip",
-    "update_sha256":  "97e2873d918c78f0adb7d121315c40b3aba4d6b93629b8674a66543353b6364f",
-    "setup":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.29/DaoDe_1.4.29_Setup.exe",
-    "portable":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.29/DaoDe_1.4.29_Portable.zip",
-    "notes":  "Vá lỗi và cải thiện tính năng"
+    "version":  "1.4.30",
+    "download":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.30/DaoDe_1.4.30_Update.zip",
+    "update_package":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.30/DaoDe_1.4.30_Update.zip",
+    "update_sha256":  "77df66e26d2f588860e1a4c7e7c7a5b71b59452c235ae8e628c832f0a715302c",
+    "setup":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.30/DaoDe_1.4.30_Setup.exe",
+    "portable":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.30/DaoDe_1.4.30_Portable.zip",
+    "notes":  "Cải thiện UI "
 }
