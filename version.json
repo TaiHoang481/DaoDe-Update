@@ -1,9 +1,9 @@
 {
-    "version":  "1.4.27",
-    "download":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.27/DaoDe_1.4.27_Update.zip",
-    "update_package":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.27/DaoDe_1.4.27_Update.zip",
-    "update_sha256":  "43c616a44de41462795fe531ab62ef434a450b50e43a1dea2e1926be4c3c51ec",
-    "setup":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.27/DaoDe_1.4.27_Setup.exe",
-    "portable":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.27/DaoDe_1.4.27_Portable.zip",
-    "notes":  "Vá lỗi, phát hành chạy thử 10 lượt bản pro"
+    "version":  "1.4.28",
+    "download":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.28/DaoDe_1.4.28_Update.zip",
+    "update_package":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.28/DaoDe_1.4.28_Update.zip",
+    "update_sha256":  "1660cb38f06dd98e4b6ac516e5b104d2788783ec2e6a4a528a2388bc66c76c95",
+    "setup":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.28/DaoDe_1.4.28_Setup.exe",
+    "portable":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.28/DaoDe_1.4.28_Portable.zip",
+    "notes":  "Vá lỗi "
 }
