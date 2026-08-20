@@ -1,9 +1,9 @@
 {
-    "version":  "1.4.25",
-    "download":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.25/DaoDe_1.4.25_Update.zip",
-    "update_package":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.25/DaoDe_1.4.25_Update.zip",
-    "update_sha256":  "879e77635e7f505ddad0e24fcd5aa2b9230a7d2d52b4a6ebc65643880c3984a4",
-    "setup":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.25/DaoDe_1.4.25_Setup.exe",
-    "portable":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.25/DaoDe_1.4.25_Portable.zip",
-    "notes":  "Thêm tính năng xuất pdf"
+    "version":  "1.4.26",
+    "download":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.26/DaoDe_1.4.26_Update.zip",
+    "update_package":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.26/DaoDe_1.4.26_Update.zip",
+    "update_sha256":  "0211d561b7839c33f2930a492026ec86156449631a689e0359089a7b81278e06",
+    "setup":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.26/DaoDe_1.4.26_Setup.exe",
+    "portable":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.26/DaoDe_1.4.26_Portable.zip",
+    "notes":  "Cải thiện tốc độ"
 }
