@@ -1,9 +1,9 @@
 {
-    "version":  "1.4.26",
-    "download":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.26/DaoDe_1.4.26_Update.zip",
-    "update_package":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.26/DaoDe_1.4.26_Update.zip",
-    "update_sha256":  "0211d561b7839c33f2930a492026ec86156449631a689e0359089a7b81278e06",
-    "setup":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.26/DaoDe_1.4.26_Setup.exe",
-    "portable":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.26/DaoDe_1.4.26_Portable.zip",
-    "notes":  "Cải thiện tốc độ"
+    "version":  "1.4.27",
+    "download":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.27/DaoDe_1.4.27_Update.zip",
+    "update_package":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.27/DaoDe_1.4.27_Update.zip",
+    "update_sha256":  "43c616a44de41462795fe531ab62ef434a450b50e43a1dea2e1926be4c3c51ec",
+    "setup":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.27/DaoDe_1.4.27_Setup.exe",
+    "portable":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.27/DaoDe_1.4.27_Portable.zip",
+    "notes":  "Vá lỗi, phát hành chạy thử 10 lượt bản pro"
 }
