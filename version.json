@@ -1,9 +1,9 @@
 {
-    "version":  "1.4.32",
-    "download":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.32/DaoDe_1.4.32_Update.zip",
-    "update_package":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.32/DaoDe_1.4.32_Update.zip",
-    "update_sha256":  "b9b639af6f3419e3c77dbb9485d8ef8eb2abdac3636cd797da2a5fcb9d367d85",
-    "setup":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.32/DaoDe_1.4.32_Setup.exe",
-    "portable":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.32/DaoDe_1.4.32_Portable.zip",
-    "notes":  "Thay đổi giao diện sữa câu lỗi"
+    "version":  "1.4.33",
+    "download":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.33/DaoDe_1.4.33_Update.zip",
+    "update_package":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.33/DaoDe_1.4.33_Update.zip",
+    "update_sha256":  "b462a6347ebc55c9853dd4485c12791dde0989f33b8c12ac44dfeae1534905b1",
+    "setup":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.33/DaoDe_1.4.33_Setup.exe",
+    "portable":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.33/DaoDe_1.4.33_Portable.zip",
+    "notes":  "Nâng cấp giao diện chỉnh sửa đề lỗi"
 }
