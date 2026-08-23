@@ -1,9 +1,9 @@
 {
-    "version":  "1.4.34",
-    "download":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.34/DaoDe_1.4.34_Update.zip",
-    "update_package":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.34/DaoDe_1.4.34_Update.zip",
-    "update_sha256":  "f22097ec602b39a7ed49de8fc93052459fcea78afc6fa3de53831b2d2efb2007",
-    "setup":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.34/DaoDe_1.4.34_Setup.exe",
-    "portable":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.34/DaoDe_1.4.34_Portable.zip",
-    "notes":  "Cập nhật giao diện sửa đề lỗi"
+    "version":  "1.4.36",
+    "download":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.36/DaoDe_1.4.36_Update.zip",
+    "update_package":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.36/DaoDe_1.4.36_Update.zip",
+    "update_sha256":  "ec572127361d9311d99b9c47d338f052f312fb8e72fea8cd20f776ecde5ba4fa",
+    "setup":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.36/DaoDe_1.4.36_Setup.exe",
+    "portable":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.36/DaoDe_1.4.36_Portable.zip",
+    "notes":  "Thêm tính năng tạo đề khác nhau từ ngân hàng đề người dùng nhập"
 }
