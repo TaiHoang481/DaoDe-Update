@@ -1,9 +1,12 @@
 {
-    "version":  "1.4.36",
-    "download":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.36/DaoDe_1.4.36_Update.zip",
-    "update_package":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.36/DaoDe_1.4.36_Update.zip",
-    "update_sha256":  "ec572127361d9311d99b9c47d338f052f312fb8e72fea8cd20f776ecde5ba4fa",
-    "setup":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.36/DaoDe_1.4.36_Setup.exe",
-    "portable":  "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.36/DaoDe_1.4.36_Portable.zip",
-    "notes":  "Thêm tính năng tạo đề khác nhau từ ngân hàng đề người dùng nhập"
+  "version": "1.4.37",
+  "download": "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.37/DaoDe_1.4.37_Update.zip",
+  "update_package": "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.37/DaoDe_1.4.37_Update.zip",
+  "update_sha256": "659b10e6c747428acb62ddb374b2857f3b042047d84136622f5c86cd78dde985",
+  "setup": "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.37/DaoDe_1.4.37_Setup.exe",
+  "portable": "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.37/DaoDe_1.4.37_Portable.zip",
+  "notes": "Thêm ma trận đề",
+  "signature_alg": "Ed25519",
+  "signature_version": 1,
+  "signature": "AqaxMvdBsh3V04scweKSUt5BbAnMQewNOYp8xT3NBnYYXhkT6oPsdJQGDKta9hBVEXpNhYAvB3O3KpCuge0DAA=="
 }
