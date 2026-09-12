@@ -1,12 +1,12 @@
 {
-  "version": "1.4.38",
-  "download": "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.38/DaoDe_1.4.38_Update.zip",
-  "update_package": "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.38/DaoDe_1.4.38_Update.zip",
-  "update_sha256": "3bccb80294f59ceff0de7ca55cd4a4c763ec70b18d5bcf16a812866a69457e14",
-  "setup": "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.38/DaoDe_1.4.38_Setup.exe",
-  "portable": "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.38/DaoDe_1.4.38_Portable.zip",
-  "notes": "Thêm tính năng xuất đề theo ma trận",
+  "version": "1.4.39",
+  "download": "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.39/DaoDe_1.4.39_Update.zip",
+  "update_package": "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.39/DaoDe_1.4.39_Update.zip",
+  "update_sha256": "0ae1c1631379129d7fe8f97eac1064c87233b3246bbee817a08a2b1baebf0127",
+  "setup": "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.39/DaoDe_1.4.39_Setup.exe",
+  "portable": "https://github.com/TaiHoang481/DaoDe-Update/releases/download/1.4.39/DaoDe_1.4.39_Portable.zip",
+  "notes": "Nâng cấp ngân hàng đề",
   "signature_alg": "Ed25519",
   "signature_version": 1,
-  "signature": "6+Qv0aX+GToNCoXvLro1ST1XJSzq39Mo6ZLnADhRhLT/hs57ZaosNpnu7mB8gGf+f3/yekIhAXNwhPhZ0jorDw=="
+  "signature": "f5kWU3bNIZBcs8FlVc2KO8bQBkXP4mNiWUBeRVslPhcRhP9j3+xU7uduZr9mkXQJBPPKJlHSBrZfOrXBafxzBQ=="
 }
